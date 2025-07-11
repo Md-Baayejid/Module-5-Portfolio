@@ -153,3 +153,40 @@ main{
     font-size: 20px;
     color: #474747;
 }
+ /* skill style */
+
+
+#WIK{
+    text-align: center;
+}
+#wik-title{
+    font-size: 35px ;
+    font-weight: 700;
+    color: #181818;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#wik-discri{
+    font-size: 18px;
+    color: #757575;
+    padding-left: 116px;
+    padding-right: 116px;
+    padding-top: 0px;
+    margin-top: 25px;
+}
+#skills{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    gap: 24px;
+}
+.skill{
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 5px 0px rgba(0, 0, 0, 0.06);
+}
+.skl-details{
+    color: #757575;
+    font-size: 16px;
+    
+}
